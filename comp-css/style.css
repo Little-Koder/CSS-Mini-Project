@@ -1,3 +1,82 @@
+html {
+  background-color: rgb(11, 12, 14);
+  color: rgb(235, 241, 247);
+}
+
+body {
+  font-size: 100%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-shadow: rgb(117, 117, 117) 4px 4px;
+}
+
+h2 {
+  margin-bottom: 13px;
+}
+
+hr {
+  border: 2px solid rgb(152, 163, 172);
+  border-radius: 5px;
+  width: 270px;
+  margin-top: 5px;
+  margin-left: 35px;
+  margin-bottom: 5px;
+}
+
+ul, li {
+  list-style: none;
+  margin-bottom: 8px;
+}
+
+a {
+  color: #83a5d1;
+}
+
+a:hover {
+  color: #9ebee7;
+}
+
+a:active, a:focus {
+  color: #7696c0;
+}
+
+.rounded-container {
+  background-color: rgb(12, 14, 20);
+  margin-top: 40px;
+  margin-left: 450px;
+  padding-top: 12px;
+  text-align: center;
+  border: 8px solid rgb(15, 23, 36);
+  border-radius: 15px;
+  width: 350px;
+  height: 580px;
+}
+
+.lower-importance {
+  color: rgb(141, 141, 141);
+  font-size: 0.8rem;
+}
+
+.margin-left {
+  margin-left: 8px;
+}
+
+.margin-right {
+  margin-right: 8px;
+}
+
+.simple-container {
+  background-color: rgb(11, 13, 15);
+  border: 5px solid rgb(27, 38, 56);
+  border-radius: 5px;
+  width: 285px;
+  margin-left: 28px;
+  padding: 10px;
+}
+
 *, *::before, *::after {
   margin: 0;
   padding: 0;

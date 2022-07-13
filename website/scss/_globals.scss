@@ -1,0 +1,46 @@
+html {
+    background-color: rgb(11, 12, 14);
+    color: rgb(235, 241, 247);
+}
+
+body {
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-shadow: rgb(117, 117, 117) 4px 4px;
+}
+
+h2 {
+    margin-bottom: 13px;
+}
+
+hr {
+    border: 2px solid rgb(152, 163, 172);
+    border-radius: 5px;
+
+    width: 270px;
+
+    margin-top: 5px;
+    margin-left: 35px;
+    margin-bottom: 5px;
+}
+
+ul, li {
+    list-style: none;
+    margin-bottom: 8px;
+}
+
+a {
+    color: #83a5d1;
+}
+
+a:hover {
+    color: #9ebee7;
+}
+
+a:active, a:focus {
+    color: #7696c0;
+}

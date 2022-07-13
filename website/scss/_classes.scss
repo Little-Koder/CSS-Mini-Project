@@ -1,0 +1,40 @@
+.rounded-container {
+    background-color: rgb(12, 14, 20);
+
+    margin-top: 40px;
+    margin-left: 450px;
+
+    padding-top: 12px;
+
+    text-align: center;
+
+    border: 8px solid rgb(15, 23, 36);
+    border-radius: 15px;
+
+    width: 350px;
+    height: 580px;
+}
+
+.lower-importance {
+    color: rgb(141, 141, 141);
+    font-size: 0.8rem;
+}
+
+.margin-left {
+    margin-left: 8px;
+}
+
+.margin-right {
+    margin-right: 8px;
+}
+
+.simple-container {
+    background-color: rgb(11, 13, 15);
+    border: 5px solid rgb(27, 38, 56);
+    border-radius: 5px;
+    width: 285px;
+
+    margin-left: 28px;
+
+    padding: 10px;
+}
