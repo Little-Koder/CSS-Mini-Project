@@ -17,6 +17,16 @@ h2 {
     margin-bottom: 13px;
 }
 
+p {
+    display: block;
+    border-radius: 10px;
+    padding-top: 8px;
+}
+
+p:hover {
+    background-color: rgb(25, 30, 44);
+}
+
 hr {
     border: 2px solid rgb(152, 163, 172);
     border-radius: 5px;
